@@ -1,9 +1,15 @@
 import "./App.css";
+import { useRef } from "react";
+import Header from "./components/Header";
+import Body from "./components/Body";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <Header />
+      <Body />
+      <Footer />
     </div>
   );
 }
