@@ -221,6 +221,6 @@ button:hover {
   justify-content: center;
   bottom: 0;
   width: 100%;
-  color: #d2e7fe;
+  color: var(--body-header);
   text-align: center;
 }
