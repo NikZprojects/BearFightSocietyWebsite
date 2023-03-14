@@ -11,7 +11,7 @@ const Header = () => {
           />
         </a>
         <a href="/">
-          <h3 className="clickable">Home</h3>
+          <h3 className="clickable">Store</h3>
         </a>
         <div></div>
         <a href="/">
