@@ -10,7 +10,7 @@ const Header = () => {
             src={process.env.PUBLIC_URL + "/assets/BearFightLogo.png"}
           />
         </a>
-        <a href="/">
+        <a href="https://bear-fight-society.square.site">
           <h3 className="clickable">Store</h3>
         </a>
         <div></div>
